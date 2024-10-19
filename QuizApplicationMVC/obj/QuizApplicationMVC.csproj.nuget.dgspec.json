@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yogesh Patel\\source\\repos\\QuestIQ\\QuizApplicationMVC\\QuizApplicationMVC.csproj": {}
+    "D:\\QuestIQ\\QuizApplicationMVC\\QuizApplicationMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yogesh Patel\\source\\repos\\QuestIQ\\QuizApplicationMVC\\QuizApplicationMVC.csproj": {
+    "D:\\QuestIQ\\QuizApplicationMVC\\QuizApplicationMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yogesh Patel\\source\\repos\\QuestIQ\\QuizApplicationMVC\\QuizApplicationMVC.csproj",
+        "projectUniqueName": "D:\\QuestIQ\\QuizApplicationMVC\\QuizApplicationMVC.csproj",
         "projectName": "QuizApplicationMVC",
-        "projectPath": "C:\\Users\\Yogesh Patel\\source\\repos\\QuestIQ\\QuizApplicationMVC\\QuizApplicationMVC.csproj",
-        "packagesPath": "C:\\Users\\Yogesh Patel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yogesh Patel\\source\\repos\\QuestIQ\\QuizApplicationMVC\\obj\\",
+        "projectPath": "D:\\QuestIQ\\QuizApplicationMVC\\QuizApplicationMVC.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\QuestIQ\\QuizApplicationMVC\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Yogesh Patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -92,24 +88,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.32, 6.0.32]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.32, 6.0.32]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.32, 6.0.32]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.32, 6.0.32]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
