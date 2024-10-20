@@ -46,36 +46,36 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jiyap/OneDrive/Desktop/CoreMVC/QuizApplicationMVC/Views/Quizz/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpenpcQ3JlYXRlLmNzaHRtbA==
+[C:/Users/jiyap/OneDrive/Desktop/CoreMVC/QuizApplicationMVC/Views/Quiz/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpelxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jiyap/OneDrive/Desktop/CoreMVC/QuizApplicationMVC/Views/Quizz/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpenpcRGVsZXRlLmNzaHRtbA==
+[C:/Users/jiyap/OneDrive/Desktop/CoreMVC/QuizApplicationMVC/Views/Quiz/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpelxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jiyap/OneDrive/Desktop/CoreMVC/QuizApplicationMVC/Views/Quizz/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpenpcRGV0YWlscy5jc2h0bWw=
+[C:/Users/jiyap/OneDrive/Desktop/CoreMVC/QuizApplicationMVC/Views/Quiz/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpelxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jiyap/OneDrive/Desktop/CoreMVC/QuizApplicationMVC/Views/Quizz/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpenpcRWRpdC5jc2h0bWw=
+[C:/Users/jiyap/OneDrive/Desktop/CoreMVC/QuizApplicationMVC/Views/Quiz/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpelxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jiyap/OneDrive/Desktop/CoreMVC/QuizApplicationMVC/Views/Quizz/EvaluationResult.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpenpcRXZhbHVhdGlvblJlc3VsdC5jc2h0bWw=
+[C:/Users/jiyap/OneDrive/Desktop/CoreMVC/QuizApplicationMVC/Views/Quiz/EvaluationResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpelxFdmFsdWF0aW9uUmVzdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jiyap/OneDrive/Desktop/CoreMVC/QuizApplicationMVC/Views/Quizz/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpenpcSW5kZXguY3NodG1s
+[C:/Users/jiyap/OneDrive/Desktop/CoreMVC/QuizApplicationMVC/Views/Quiz/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpelxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jiyap/OneDrive/Desktop/CoreMVC/QuizApplicationMVC/Views/Quizz/MyQuizes.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpenpcTXlRdWl6ZXMuY3NodG1s
+[C:/Users/jiyap/OneDrive/Desktop/CoreMVC/QuizApplicationMVC/Views/Quiz/MyQuizes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpelxNeVF1aXplcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jiyap/OneDrive/Desktop/CoreMVC/QuizApplicationMVC/Views/Quizz/Take.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpenpcVGFrZS5jc2h0bWw=
+[C:/Users/jiyap/OneDrive/Desktop/CoreMVC/QuizApplicationMVC/Views/Quiz/Take.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpelxUYWtlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/jiyap/OneDrive/Desktop/CoreMVC/QuizApplicationMVC/Views/Shared/Error.cshtml]
