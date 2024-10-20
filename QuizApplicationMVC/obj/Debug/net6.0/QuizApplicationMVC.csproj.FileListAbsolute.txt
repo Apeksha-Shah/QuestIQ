@@ -1492,3 +1492,5 @@ C:\Users\jiyap\OneDrive\Desktop\CoreMVC\QuizApplicationMVC\bin\Debug\net6.0\Mono
 C:\Users\jiyap\OneDrive\Desktop\CoreMVC\QuizApplicationMVC\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Users\jiyap\OneDrive\Desktop\CoreMVC\QuizApplicationMVC\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\jiyap\OneDrive\Desktop\CoreMVC\QuizApplicationMVC\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Yogesh Patel\source\repos\QuestIQ\QuizApplicationMVC\obj\Debug\net6.0\QuizApplicationMVC.RazorAssemblyInfo.cache
+C:\Users\Yogesh Patel\source\repos\QuestIQ\QuizApplicationMVC\obj\Debug\net6.0\QuizApplicationMVC.RazorAssemblyInfo.cs

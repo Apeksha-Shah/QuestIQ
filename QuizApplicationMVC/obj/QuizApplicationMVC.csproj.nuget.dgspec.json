@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jiyap\\OneDrive\\Desktop\\CoreMVC\\QuizApplicationMVC\\QuizApplicationMVC.csproj": {}
+    "C:\\Users\\Yogesh Patel\\source\\repos\\QuestIQ\\QuizApplicationMVC\\QuizApplicationMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jiyap\\OneDrive\\Desktop\\CoreMVC\\QuizApplicationMVC\\QuizApplicationMVC.csproj": {
+    "C:\\Users\\Yogesh Patel\\source\\repos\\QuestIQ\\QuizApplicationMVC\\QuizApplicationMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jiyap\\OneDrive\\Desktop\\CoreMVC\\QuizApplicationMVC\\QuizApplicationMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Yogesh Patel\\source\\repos\\QuestIQ\\QuizApplicationMVC\\QuizApplicationMVC.csproj",
         "projectName": "QuizApplicationMVC",
-        "projectPath": "C:\\Users\\jiyap\\OneDrive\\Desktop\\CoreMVC\\QuizApplicationMVC\\QuizApplicationMVC.csproj",
-        "packagesPath": "C:\\Users\\jiyap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jiyap\\OneDrive\\Desktop\\CoreMVC\\QuizApplicationMVC\\obj\\",
+        "projectPath": "C:\\Users\\Yogesh Patel\\source\\repos\\QuestIQ\\QuizApplicationMVC\\QuizApplicationMVC.csproj",
+        "packagesPath": "C:\\Users\\Yogesh Patel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yogesh Patel\\source\\repos\\QuestIQ\\QuizApplicationMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jiyap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Yogesh Patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -92,6 +92,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.32, 6.0.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.32, 6.0.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.32, 6.0.32]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.32, 6.0.32]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -100,7 +118,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }
